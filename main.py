@@ -1,3 +1,1 @@
-from test import HelloWorld as bro
-
-print(bro())
+print("Hello world")
